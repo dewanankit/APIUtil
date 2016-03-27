@@ -1,0 +1,12 @@
+Xface
+NetAsset	BIGDECIMAL
+NetLiability	BIGDECIMAL
+customerAssetLiabilityDTO CustomerAssetLiabilityDTO[]
+
+CustomerAssetLiabilityDTO start
+productCode	NUMBER
+productName	STRING
+customerLiability	BigDecimal
+customerAsset	BigDecimal
+currencyCode	NUMBER
+CustomerAssetLiabilityDTO end
